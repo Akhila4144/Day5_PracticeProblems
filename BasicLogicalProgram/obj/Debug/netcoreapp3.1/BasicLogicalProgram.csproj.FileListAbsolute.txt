@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\netcoreapp3.1\BasicLogicalProgram.exe
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\netcoreapp3.1\BasicLogicalProgram.deps.json
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\netcoreapp3.1\BasicLogicalProgram.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\netcoreapp3.1\BasicLogicalProgram.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\netcoreapp3.1\BasicLogicalProgram.dll
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\bin\Debug\netcoreapp3.1\BasicLogicalProgram.pdb
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.dll
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.pdb
+C:\Users\Raj Nani\source\repos\BasicLogicalProgram\BasicLogicalProgram\obj\Debug\netcoreapp3.1\BasicLogicalProgram.genruntimeconfig.cache
